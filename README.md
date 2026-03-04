@@ -46,7 +46,7 @@ El análisis confirma que, aunque existe cierta señal estadística, la magnitud
 
 ## Ejecución:
 
-1. Clonar el repositorio: git clone <url-del-repositorio>
+1. Clonar el repositorio: git clone [<url-del-repositorio>](https://github.com/lucia-luzuriaga/ML_Financial_TimeSeries.git)
 
 2. Instalar las dependencias necesarias
 
